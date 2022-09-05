@@ -3,7 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: home
 ---
+**Welcome!**
 
-Hello.
+Here you'll find a summary of my various projects hosted on
+github. For further details see the respective repo-specific `README`
+files.
+
+The [technical] blog posts are listed below.
