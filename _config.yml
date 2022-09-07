@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 
 ---
-title: anydata.uk
-author: Fred Youhanaie
+title: Fred Youhanaie
+author: fy
 email: blogs@anydata.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Blog posts and project notes.
