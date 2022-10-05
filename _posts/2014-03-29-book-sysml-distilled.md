@@ -7,6 +7,9 @@ date: 2014-03-29
 categories: general
 ---
 
+**Update:** _This is a copy of the review of a book that was kindly made
+available by ACCU._
+
 ```
 Title:     SysML Distilled: A Brief Guide to the Systems Modeling Language
 Author:    Lenny Delligatti

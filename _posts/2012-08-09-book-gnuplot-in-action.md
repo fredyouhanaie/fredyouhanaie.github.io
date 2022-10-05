@@ -7,6 +7,9 @@ date: 2012-08-09
 categories: general
 ---
 
+**Update:** _This is a copy of the review of a book that was kindly made
+available by ACCU._
+
 ```
 Title:     Gnuplot in Action: Understanding Data with Graphs
 Author:    Philipp K. Janert
