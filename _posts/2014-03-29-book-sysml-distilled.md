@@ -7,8 +7,10 @@ date: 2014-03-29
 categories: general
 ---
 
-**Update:** _This is a copy of the review of a book that was kindly made
-available by ACCU._
+**Update 2022-10-07:** _This is a copy of the review of a book that was kindly
+made available by ACCU. The book covers SysML v1.2, while the current version is
+v1.6. However, the material presented in the book should still serve as a good
+introduction to the specification_
 
 ```
 Title:     SysML Distilled: A Brief Guide to the Systems Modeling Language
@@ -71,7 +73,7 @@ index of all the language symbols grouped by diagram type. Each symbol
 is accompanied with a reference to the section where the symbol is
 described.
 
-The latest version of SysML is v1.3(*), however, Delligatti focuses on
+The latest version of SysML is v1.3, however, Delligatti focuses on
 the earlier version, v1.2, while covering the differences between the
 two versions in the second appendix. The reason for focusing on the
 older version is that at the time of writing all the available SysML
