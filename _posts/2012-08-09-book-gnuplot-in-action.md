@@ -7,8 +7,11 @@ date: 2012-08-09
 categories: general
 ---
 
-**Update:** _This is a copy of the review of a book that was kindly made
-available by ACCU._
+**Update 2022-10-07:** _This is a copy of the review of the first edition of the
+book, which was kindly made available by ACCU. The second edition was published
+in March 2016. According to the publishers, Manning Publications, the second
+edition is a major revision of the book. However, judging by the first edition,
+we can expect the new edition to be just as enjoyable._
 
 ```
 Title:     Gnuplot in Action: Understanding Data with Graphs
