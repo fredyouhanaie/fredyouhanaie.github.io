@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.9 -->
+<!-- CreationDate: 2024-07-29 16:33:05 -->
+<!-- Magnification: 1 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="697pt" height="583pt"
+	viewBox="285 285 11606 9705">
+<g fill="none">
+<!-- Arc -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 285,285 H 11891 V 9990 H 285 z
+		M 6515,1331 6449,1337 6438,1403 6599,1525 6625,1501z"/>
+</clipPath>
+</defs>
+<path d="M 3000,1200 A 2554 2554 0 0 1 6600 1500" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="30px"/>
+<!-- Forward arrow to point 6600,1500 -->
+<polygon points=" 6438,1403 6561,1458 6515,1331 6449,1337 6438,1403"
+	stroke="#000000" stroke-width="45px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Arc -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 285,285 H 11891 V 9990 H 285 z
+		M 10669,6815 10663,6749 10597,6738 10475,6899 10499,6925z"/>
+</clipPath>
+</defs>
+<path d="M 10800,3300 A 2554 2554 0 0 1 10500 6900" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="30px"/>
+<!-- Forward arrow to point 10500,6900 -->
+<polygon points=" 10597,6738 10542,6861 10669,6815 10663,6749 10597,6738"
+	stroke="#000000" stroke-width="45px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Arc -->
+<defs>
+<clipPath id="cp2">
+	<path clip-rule="evenodd" d="M 285,285 H 11891 V 9990 H 285 z
+		M 3085,8869 3151,8863 3162,8797 3001,8675 2975,8699z"/>
+</clipPath>
+</defs>
+<path d="M 6600,9000 A 2554 2554 0 0 1 3000 8700" clip-path="url(#cp2)"
+	stroke="#000000" stroke-width="30px"/>
+<!-- Forward arrow to point 3000,8700 -->
+<polygon points=" 3162,8797 3039,8742 3085,8869 3151,8863 3162,8797"
+	stroke="#000000" stroke-width="45px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polygon points=" 4350,7725 750,5925 750,9525"
+	stroke="#000000" stroke-width="45px"/>
+<!-- Text -->
+<text xml:space="preserve" x="300" y="5775" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">A</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="7425" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">A (+) B</text>
+<!-- Text -->
+<text xml:space="preserve" x="300" y="9975" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">B</text>
+<!-- Text -->
+<text xml:space="preserve" x="900" y="9300" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">x</text>
+<!-- Text -->
+<text xml:space="preserve" x="900" y="6450" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">y</text>
+<!-- Line -->
+<polygon points=" 10697,7777 7097,5977 7097,9577"
+	stroke="#000000" stroke-width="45px"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp3">
+	<path clip-rule="evenodd" d="M 285,285 H 11891 V 9990 H 285 z
+		M 7507,9126 7522,9069 7469,9044 7326,9141 7341,9174z"/>
+</clipPath>
+</defs>
+<polyline points=" 9900,7950 7350,9150" clip-path="url(#cp3)"
+	stroke="#000000" stroke-width="30px"/>
+<!-- Forward arrow to point 7350,9150 -->
+<polygon points=" 7469,9044 7387,9133 7507,9126 7522,9069 7469,9044"
+	stroke="#000000" stroke-width="30px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Text -->
+<text xml:space="preserve" x="6750" y="5745" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="360" text-anchor="start">A</text>
+<!-- Text -->
+<text xml:space="preserve" x="10800" y="7395" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">A (+) B</text>
+<!-- Text -->
+<text xml:space="preserve" x="6750" y="9945" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">B</text>
+<!-- Text -->
+<text xml:space="preserve" x="7350" y="6450" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">y</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="7800" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">x</text>
+<!-- Text -->
+<text xml:space="preserve" x="8400" y="8400" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">(3)</text>
+<!-- Line -->
+<defs>
+<clipPath id="cp4">
+	<path clip-rule="evenodd" d="M 285,285 H 11891 V 9990 H 285 z
+		M 7305,1405 7395,1405 7368,1182 7332,1182z"/>
+</clipPath>
+</defs>
+<polyline points=" 7350,3600 7350,1200" clip-path="url(#cp4)"
+	stroke="#000000" stroke-width="30px"/>
+<!-- Forward arrow to point 7350,1200 -->
+<polygon points=" 7395,1405 7350,1255 7305,1405 7395,1405"
+	stroke="#000000" stroke-width="30px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polygon points=" 10650,2550 7050,750 7050,4350"
+	stroke="#000000" stroke-width="45px"/>
+<!-- Text -->
+<text xml:space="preserve" x="6750" y="525" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">A</text>
+<!-- Text -->
+<text xml:space="preserve" x="6750" y="4725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">B</text>
+<!-- Text -->
+<text xml:space="preserve" x="10800" y="2175" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">A (+) B</text>
+<!-- Text -->
+<text xml:space="preserve" x="7350" y="3900" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">y</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="2700" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">x</text>
+<!-- Text -->
+<text xml:space="preserve" x="7500" y="2550" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">(2)</text>
+<!-- Line -->
+<polygon points=" 4539,2800 771,732 771,4868"
+	stroke="#000000" stroke-width="45px"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp5">
+	<path clip-rule="evenodd" d="M 285,285 H 11891 V 9990 H 285 z
+		M 3880,2702 3834,2789 4057,2874 4074,2843z"/>
+</clipPath>
+</defs>
+<polyline points=" 1242,1334 4050,2850" clip-path="url(#cp5)"
+	stroke="#000000" stroke-width="30px"/>
+<!-- Forward arrow to point 4050,2850 -->
+<polygon points=" 3834,2789 4002,2824 3880,2702 3834,2789"
+	stroke="#000000" stroke-width="30px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Text -->
+<text xml:space="preserve" x="300" y="559" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="252" text-anchor="start">A</text>
+<!-- Text -->
+<text xml:space="preserve" x="300" y="5385" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="252" text-anchor="start">B</text>
+<!-- Text -->
+<text xml:space="preserve" x="4539" y="2456" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="252" text-anchor="start">A (+) B</text>
+<!-- Text -->
+<text xml:space="preserve" x="928" y="1334" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="252" text-anchor="start">x</text>
+<!-- Text -->
+<text xml:space="preserve" x="928" y="4438" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="252" text-anchor="start">y</text>
+<!-- Text -->
+<text xml:space="preserve" x="2100" y="2250" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="240" text-anchor="start">(1)</text>
+</g>
+</svg>

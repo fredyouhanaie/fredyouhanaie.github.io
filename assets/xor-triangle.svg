@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.9 -->
+<!-- CreationDate: 2024-07-29 16:32:42 -->
+<!-- Magnification: 1 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="323pt" height="305pt"
+	viewBox="285 319 5376 5081">
+<g fill="none">
+<!-- Line -->
+<polygon points=" 4539,2800 771,732 771,4868"
+	stroke="#000000" stroke-width="45px"/>
+<!-- Text -->
+<text xml:space="preserve" x="300" y="559" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="252" text-anchor="start">A</text>
+<!-- Text -->
+<text xml:space="preserve" x="300" y="5385" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="252" text-anchor="start">B</text>
+<!-- Text -->
+<text xml:space="preserve" x="4539" y="2456" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="252" text-anchor="start">A (+) B</text>
+</g>
+</svg>
