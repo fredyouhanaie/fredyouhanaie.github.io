@@ -24,6 +24,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anydata.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: fredyouhanaie
 
+mastodon:
+  - username: fy
+    instance: mastodon.acm.org
+
 # Build settings
 theme: minima
 plugins:
